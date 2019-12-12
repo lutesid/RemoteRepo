@@ -9,5 +9,5 @@ calci(){
 }
 echo "Welcome to calculator"
 read -p "Welcome to the calculator. Please enter the numbers in format as Num1 Num2 Operation " x y z
-
+echo "Thank you"
 calci $x $y $z
