@@ -7,6 +7,7 @@ calci(){
 		*) echo "Enter correct values please";;
 	esac
 }
+echo "Welcome to calculator"
 read -p "Welcome to the calculator. Please enter the numbers in format as Num1 Num2 Operation " x y z
 
 calci $x $y $z
